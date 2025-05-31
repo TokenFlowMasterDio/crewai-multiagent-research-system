@@ -82,10 +82,14 @@ This isn't just another AI tool - it's a **collaborative AI workforce** that thi
 - **Technical Assessment**: Code quality evaluation
 - **Competitive Intelligence**: Market positioning analysis
 
-## ⚡ **Quick Start**
+## ⚡ **Quick Start**![document-demo](https://github.com/user-attachments/assets/20c8e1e2-974c-4948-a91c-4b3488121141)
+
+![code-analysis-demo](https://github.com/user-attachments/assets/f3![system-overview](https://github.com/user-attachments/assets/d3bad674-15a3-42ca-9f5b-ef2e524ecb44)
+f08b8d-e434-49b7-8439-4ce6368b0140)
 
 ### **1. Clone & Install**
 ```bash
 git clone https://github.com/TokenFlowMasterDio/crewai-multiagent-research-system.git
-cd crewai-multiagent-research-system
+cd crewai-multi![research-demo](https://github.com/user-attachments/assets/7edbb540-4d5f-4e97-a023-6c34f747b34b)
+agent-research-system
 pip install -r requirements.txt"# crewai-multiagent-research-system" 
