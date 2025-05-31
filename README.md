@@ -20,17 +20,17 @@ This isn't just another AI tool - it's a **collaborative AI workforce** that thi
 - 🖼️ **Smart image analysis** that understands code screenshots and technical diagrams
 - 🌐 **Production-ready web interface** with session management
 
-## 🎬 **Live Demo**
+## 🎬 Live Demo
 
-### **Research Capabilities**
+### Research Capabilities
 ![Research Demo](docs/images/research-demo.png)
 *Generate comprehensive research reports with real citations in under 60 seconds*
 
-### **Code Analysis**
-![Code Analysis Demo](docs/images/code-analysis-demo.png)
+### Code Analysis
+![Code Analysis Demo](docs/images/code-analysis-demo.png) 
 *Analyze code screenshots with expert-level technical insights*
 
-### **Document Intelligence**
+### Document Intelligence
 ![Document Processing](docs/images/document-demo.png)
 *Extract key insights from complex documents automatically*
 
