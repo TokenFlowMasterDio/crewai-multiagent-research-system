@@ -1,3 +1,7 @@
+![research-demo](https://github.com/user-attachments/assets/27dad42f-df33-4e89-8797-b49ba326a27f)
+![code-analysis-demo](https://github.com/user-attachments/assets/036b790d-564e-4614-aa98-528fb9ad5da3)
+![document-demo](https://github.com/user-attachments/assets/58d2fc93-1f18-4b49-b1be-2b282118f2ff)
+![system-overview](https://github.com/user-attachments/assets/5e601d6d-884b-4be6-aeba-01b6284206b5)
 # 🤖 CrewAI Multi-Agent Research & Analysis System
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
